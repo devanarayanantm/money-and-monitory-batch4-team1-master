@@ -1,0 +1,22 @@
+/* Dash_board.css */
+
+.dashboard-container {
+    display: flex;
+    flex-direction: row;
+    background-color: #4141c3;
+    min-height: 100vh;
+  }
+  
+  .dashboard-content {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .dashboard-section {
+    background-color: #b5b2df;
+    border: 1px solid #32093e;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }

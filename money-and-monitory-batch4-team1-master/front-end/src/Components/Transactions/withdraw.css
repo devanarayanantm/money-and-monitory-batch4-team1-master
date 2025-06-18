@@ -1,0 +1,63 @@
+h2.white-text {
+    color: white;
+  }
+
+form.white-text{
+  color: white;
+}
+
+
+
+/* In your CSS file */
+.cardbg-color {
+  position: relative; /* Required for the pseudo-element */
+  /* background-color: #490778; Violet background color */
+  padding: 20px; /* Add padding to the card for better visibility */
+}
+
+.violet-text{
+  color: #702dab;
+}
+
+.violet-button{
+  background-color: #702dab;
+  color: white;
+}
+
+.violet-button:hover {
+  background-color: darkviolet;
+  /* Add other hover styles here */
+}
+
+.whitebutton {
+  background-color: white;
+  color: #702dab;
+  font-weight: bold;
+  transition: background-color 0.3s ease; /* Smooth transition */
+}
+
+.whitebutton:hover {
+  background-color: #502080;
+  border-color: white;
+  border-radius: 2px solid;
+}
+
+.depositLeftPane{
+  background-image: url("../../manPayingOnline.avif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: -1;
+  margin-left: 300px;
+  background-size: 110% 110%;
+}
+
+.depositLeftPaneWithdraw{
+  background-image: url("../../withdraw.PNG");
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: -1;
+  margin-left: 300px;
+  background-size: 110% 110%;
+  z-index: -1;
+}
+

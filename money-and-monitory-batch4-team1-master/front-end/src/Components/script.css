@@ -1,0 +1,84 @@
+
+.background{
+    background-color: rgb(232, 222, 242);
+    height: 50px;
+    font-weight: 500;
+  }
+
+  .padding{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.form_width{
+    padding-left: 38%;
+    padding-right: 38%;
+    padding-bottom: 10%;
+}
+
+.button{
+    background-color: #490778;
+    color: beige;
+}
+
+.top{
+    padding-top: 10%;
+    color: #490778;
+}
+
+  .beige-text {
+    color:  #490778; /* Set the desired font color (beige) */
+    padding-left: 1400px;
+  }
+
+  .btn-color{
+    background-color :#9B59B6
+  }
+
+  .icon{
+    padding-top: -10%;
+    padding-left: 90%;
+  }
+
+  .color{
+    color:  #490778;
+  }
+
+  .tablepadding{
+    padding-left: 15%;
+  }
+
+  .label{
+    padding-right: 45%;
+    padding-bottom: 2%;
+    color:#490778
+  }
+
+  .youraccount{
+    padding-right: 47%;
+  }
+
+  .amount{
+    padding-right: 64%;
+  }
+
+  .cvv{
+    padding-right: 63%;
+  }
+
+  .cardnumber{
+    padding-right: 53%;
+  }
+
+  .history{
+    padding-bottom: 3%;
+  }
+
+  .padding-form{
+    padding-left: 78%;
+    padding-bottom: 10%;
+  }
+
+  .receiver{
+    padding-right: 33%;
+  }

@@ -1,0 +1,50 @@
+/* ViewProfile.css */
+
+.container.view-profile {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.card.view-profile {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.card-title.view-profile {
+    background-color: #490778;
+    ;
+    color: white;
+    padding: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin: 0;
+
+}
+
+.card-body.view-profile {
+
+    padding: 1.5rem;
+    background-color: #f8f9fa;
+}
+
+.profile-info {
+    font-size: 18px;
+    text-align: left;
+}
+
+.profile-info strong {
+    font-weight: bold;
+}
+
+.profile-info div {
+    flex-grow: 1;
+    /* Allow the user data to expand and fill the remaining space */
+    background-color: #ffffff;
+    /* Background color for user data rows */
+    padding: 0.5rem;
+    border-radius: 5px;
+}
+
+
+/* Add additional CSS styles as needed to customize your profile page */

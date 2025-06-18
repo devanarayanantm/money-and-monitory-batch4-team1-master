@@ -1,0 +1,35 @@
+/* Sidebar.css */
+
+.sidebar {
+  background-color: #fbfafc; /* Background color for the sidebar */
+  font-family: 'Roboto', sans-serif;
+  color: #490778; 
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin-left: 120px;
+  margin-right: 120px;
+  border-radius: 5px;
+  padding-right: 60px
+}
+
+.profile-image {
+  width: 100px; /* Adjust the size of the profile image */
+  height: 100px; /* Adjust the size of the profile image */
+  border-radius: 50%; /* Make it a circle */
+  margin-bottom: 10px;
+  
+}
+
+.user-info {
+  text-align: left;
+}
+
+.h1{
+  width: 700px;
+}
+
+.h5{
+  width: 800px;
+}
+

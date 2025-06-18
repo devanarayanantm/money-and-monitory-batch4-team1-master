@@ -1,0 +1,70 @@
+/* .card {
+    position: relative;
+    background-color: #702dab;
+    padding: 20px;
+}
+*/
+.bold-text {
+    color: #490778;
+    font-weight: bold;
+}
+
+.custom-button {
+    background-color: #490778;
+    /* Set the button background color to violet */
+    color: #fff;
+    /* Set the text color to white */
+    border: none;
+    border-radius: 8px;
+    font-size: 17px;
+    padding: 6px 14px;
+    /* Remove the button border */
+    transition: background-color 0.3s;
+    /* Add a transition effect for hover */
+}
+
+.custom-button.violet-disabled:disabled {
+    background-color: #490778;
+    /* Change the background color to violet */
+    border-color: #490778;
+    /* Change the border color to violet */
+    opacity: 0.5;
+    /* Adjust opacity to make it visually disabled */
+}
+
+.custom-button:hover {
+    color: black;
+    background-color: #ccc;
+    /* Change the background color to light purple or grey on hover */
+}
+
+.violet-link {
+    color: #490778;
+    /* Set the button background color to violet */
+}
+
+.custom-column {
+    flex-basis: 69%;
+    /* Adjust this value to your desired width */
+}
+
+.error-message {
+    color: red;
+    font-size: 15px;
+    font-weight: 500;
+    margin-top: 9px;
+    /* Add more styles as needed */
+}
+
+#leftPanelLogin{
+    background-image: url("./front.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    background-size: 90% 90%;
+
+}
+
+.login-container{
+    margin-top: 7rem!important;
+}
